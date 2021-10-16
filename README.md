@@ -1,6 +1,8 @@
 # Arc
 An operating system written in *mostly* [SPWN](https://github.com/Spu7Nix/SPWN-language) *Hopefully.*
 
+Repository moved to [here](https://github.com/arc-spwn/Arc).
+
 ## About
 Currently it doesn't do anything.
 
